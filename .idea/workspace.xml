@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="215c91ae-ef47-4178-9e8f-8777699f413d" name="Default Changelist" comment="" />
+    <list default="true" id="215c91ae-ef47-4178-9e8f-8777699f413d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/.Application.java.icloud" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1a2IesXSapS6hyPpv3eLkklAOQY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,6 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
@@ -55,6 +63,9 @@
       <option name="presentableId" value="Default" />
       <updated>1585927359983</updated>
       <workItem from="1585927362803" duration="3682000" />
+      <workItem from="1586159707785" duration="61000" />
+      <workItem from="1590588066598" duration="39000" />
+      <workItem from="1590588173000" duration="280000" />
     </task>
     <servers />
   </component>
@@ -98,9 +109,13 @@
       <screen x="1792" y="55" width="1680" height="1027" />
     </state>
     <state width="1622" height="521" key="GridCell.Tab.1.right/1792.55.1680.1027/0.23.1792.1017@1792.55.1680.1027" timestamp="1585931473947" />
-    <state x="2318" y="394" key="com.intellij.ide.util.TipDialog" timestamp="1585927368968">
+    <state x="2318" y="394" key="com.intellij.ide.util.TipDialog" timestamp="1586159741078">
       <screen x="1792" y="55" width="1680" height="1027" />
     </state>
-    <state x="2318" y="394" key="com.intellij.ide.util.TipDialog/1792.55.1680.1027/0.23.1792.1017@1792.55.1680.1027" timestamp="1585927368968" />
+    <state x="2318" y="394" key="com.intellij.ide.util.TipDialog/1792.55.1680.1027/0.23.1792.1017@1792.55.1680.1027" timestamp="1586159741078" />
+    <state x="-1411" y="160" key="new project wizard" timestamp="1590588363895">
+      <screen x="-1680" y="70" width="1680" height="1050" />
+    </state>
+    <state x="-1411" y="160" key="new project wizard/-1680.70.1680.1050/0.0.1792.1120@-1680.70.1680.1050" timestamp="1590588363895" />
   </component>
 </project>
